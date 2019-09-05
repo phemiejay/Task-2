@@ -1,8 +1,7 @@
 
-header{
+.header{
         font-family: 'Times New Roman', Times, serif;
         font-size: 100%;
- 
 }
 img{
     border: 1px solid #ddd;
@@ -22,4 +21,11 @@ body {
     h1{ color: black;}
     p{
          color: black;
+    }
+
+    footer {
+        margin-top: 5%
+    }
+    label , input, textarea{
+        display: block;
     }
